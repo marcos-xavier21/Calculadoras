@@ -14,9 +14,9 @@ Usarei preferencialmente HTML, CSS e JavaScript, podendo haver soluções em out
 
  Essa calculadora, como o próprio nome indica é bem simples. É composta por dois campos de entrada tipo *number* onde cada um representa um termo numerico, os termos serão calculados pelo script segundo as opções de operação dispostas em forma de botões alinhados horizontamente, cada botão contém uma operação básica a ser realizada apenas clicando em qualquer um dos botões, no instante do clique o cálculo é feito e o resultado é exibido logo abaixo dos campos de entrada dos termos numéricos.
 
->>Linguagem de programação: JavaScript
->>Marcação de texto: HTML
->>Estilo e design: CSS
+>>Linguagem de programação: JavaScript <br>
+>>Marcação de texto: HTML<br>
+>>Estilo e design: CSS<br>
  <h1> 
 
 
