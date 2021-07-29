@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+:root {
+  --primary-color: rgb(0, 96, 121);
+}
+* {
+  box-sizing: border-box;
+  outline: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-position: center top;
+  background-color: #001033;
+/*  background-image: url("https://64.media.tumblr.com/280958d24471ce61ae9188a5abf1cd21/tumblr_olnnz7MkrU1ui5smxo1_1280.jpg");*/
+  background-size: cover;
+  font-family: 'Lato', sans-serif;  font-size: 1em;
+  line-height: 1.4em;
+}
+.container {
+  max-width: 640px;
+  margin: 50px auto;
+  background: #ffffffc2;
+  padding: 50px;
+  border-radius: 10px;
+}
+
+form input,
+form label,
+form button {
+  display: block;
+  width: 1;
+  margin-bottom: 10px;
+}
+
+form input {
+  font-size: 24px;
+  height: 45px;
+  padding: 0 20px;
+  width: 100px;
+}
+form input:focus {
+  outline: 1px solid var(--primary-color);
+}
+
+form button {
+  border: none;
+  background-color: #008372;
+  color: white;
+  font-size: 18px;
+  text-align: left;
+  align-content: center;
+  font-weight: 200;
+  height: 25px;
+  padding: 0 20px;
+  cursor: pointer;
+  margin-top: 30px;
+  box-shadow:  0 2px  #004d42;
+}
+form button:hover {
+  background-position: center;
+}
+form button:active {
+  background:  #004d42;
+  box-shadow:  0 2px  #008372;
+}
+.paragrafo-resultado,
+.bad .fun .blue {
+  background: rgb(0, 167, 0);
+  padding: 10px 20px;
+}
+
+.fun {
+  background-color: #eaeaea88;
+}
+
+.blue {
+  background-color: rgba(0, 0, 0, 0.342);
+}
+
+.operadorSelect {
+  justify-content: stretch;
+  vertical-align: 0px;
+}
+.b{
+text-shadow: 1px 2px #0066ff;}
