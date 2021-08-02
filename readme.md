@@ -12,7 +12,7 @@ Usarei preferencialmente HTML, CSS e JavaScript, podendo haver soluções em out
 
 ##  <p style="text-align: center; Color: #0066ff;"> **Calculadora Simples**</p>
 
- Essa calculadora, como o próprio nome indica é bem simples. É composta por um campo campo de visualização onde serão apresentados os termos numericos e o operador do calculo, os termos serão calculados pelo script de acordo com operador escolhido, os botões são numerados de 0 a 9, dispostas em forma de botões alinhados e dispostos de acordo com uma calculadora de bolso uma operação básica a ser realizada apenas clicando em qualquer um dos botões, no instante do clique no sianal de igualdade o cálculo é feito e o resultado é exibido logo acima dos botões.
+ Essa calculadora, como o próprio nome indica é bem simples. É composta por um campo de visualização onde serão apresentados os termos numericos e o operador do calculo, os termos serão calculados pelo script de acordo com operador escolhido, os botões são numerados de 0 a 9, dispostas em forma de botões alinhados e dispostos de acordo com uma calculadora de bolso uma operação básica a ser realizada apenas clicando em qualquer um dos botões, no instante do clique no sianal de igualdade o cálculo é feito e o resultado é exibido logo acima dos botões.
 
 >>Linguagem de programação: JavaScript <br>
 >>Marcação de texto: HTML<br>
