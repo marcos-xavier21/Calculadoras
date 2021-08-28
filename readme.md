@@ -1,6 +1,6 @@
 
  #  <p style="text-align: center;">Calculadoras </p> 
-Neste projeto tenho como intuito exercitar e desenvolver minhas capacitades como desenvolvedor web, através da construção de calculadoras com layouts diversos, para todos os fins que a criatividade me trouxer a mente. 
+Neste projeto tenho como intuito exercitar e desenvolver minhas capacidades como desenvolvedor web, através da construção de calculadoras com layouts diversos, para todos os fins que a criatividade me trouxer a mente. 
 
 
 
